@@ -13,7 +13,7 @@ public class CloudantPropertiesBean {
         private String host;
         private String protocol;
         private int port;
-        private String database
+        private String database;
 
 
         public String getUsername() {

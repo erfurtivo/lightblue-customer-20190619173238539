@@ -62,4 +62,3 @@ public class Customer {
 	}
 
 }
-© 2019 GitHub, Inc.

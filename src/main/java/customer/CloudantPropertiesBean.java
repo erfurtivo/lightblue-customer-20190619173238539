@@ -41,7 +41,7 @@ public class CloudantPropertiesBean {
                 this.port = port;
         }
         public String getProtocol() {
-                return protocol+"";
+                return protocol;
         }
         public void setProtocol(String protocol) {
                 this.protocol = protocol;
